@@ -2,7 +2,7 @@
 title: Cyber Activism Today
 date: "2019-04-01"
 tags: ["cyber activism", "web activism", "online activism", "cyber extortion"]
-featuredImage: './activism-via-social-media-2'
+featuredImage: './activism-via-social-media-2.jpg'
 ---
 
 Today is a new day, the day cyber activists are praised and activist posers exposed!  Some are doing amazing work in the name of cyber activism while others are actively destroying its good name.
